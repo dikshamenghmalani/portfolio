@@ -59,12 +59,12 @@ export const work = {
 	title: "What I do",
 	cards: [
 		{
-			title: "Mobile App Development",
+			title: "Machine Learning",
 			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
 			icons: null,
 		},
 		{
-			title: "Web Development",
+			title: "Software Development",
 			description: "I create responsive static websites using Reactjs.",
 			icons: null,
 		},
@@ -135,20 +135,20 @@ export const contact = {
 // SEARCH ENGINE
 export const SEO = {
 	// 50 - 60 char
-	title: "Diksha Menghmalani | Computer Engineer | Reactjs developer",
+	title: "Diksha Menghmalani | Computer Engineer ",
 	description:
-		"I create mobile apps and static websites. I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering.",
+		"Graduate student in Data Engineering at the University of Wisconsin Madison",
 	image: profile.src,
 };
 
 export const links = {
 	image: profile.src,
-	title: "@hashirshoaeb",
-	description: "Computer Engineer | Flutter | Reactjs Developer",
+	title: "@dikshamenghmalani",
+	description: "Data Engineer",
 	cards: [
 		{
 			title: "Portfolio Website",
-			link: "https://hashirshoaeb.com/",
+			link: "https://dikshamenghmalani.github.io/",
 		},
 		{
 			title: "My GitHub",
