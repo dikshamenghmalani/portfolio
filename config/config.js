@@ -28,6 +28,7 @@ export const navigation = {
 	],
 };
 export const intro = {
+	gradientColors: "#87CEFA",
 	title: "Hey, I'm Diksha Menghmalani",
 	description:
 		"Computer Science graduate exploring the frontiers of AI, ML, SWE and data-driven innovation solutions to make a real-world impact",
