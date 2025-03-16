@@ -55,21 +55,21 @@ export const about = {
 	],
 };
 
-export const work = {
-	title: "What I do",
-	cards: [
-		{
-			title: "Machine Learning",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
-			icons: null,
-		},
-		{
-			title: "Software Development",
-			description: "I create responsive static websites using Reactjs.",
-			icons: null,
-		},
-	],
-};
+// export const work = {
+// 	title: "What I do",
+// 	cards: [
+// 		{
+// 			title: "Machine Learning",
+// 			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+// 			icons: null,
+// 		},
+// 		{
+// 			title: "Software Development",
+// 			description: "I create responsive static websites using Reactjs.",
+// 			icons: null,
+// 		},
+// 	],
+// };
 
 export const projects = {
 	title: "Projects",
