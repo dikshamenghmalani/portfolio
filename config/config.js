@@ -101,7 +101,7 @@ export const projects = {
 		{
 			title: "Database Management System",
 			description:
-				"A single-user DBMS for handling SQL queries, including projection and selection, and relational operations like insertion and deletion."}
+				"A single-user DBMS for handling SQL queries, including projection and selection, and relational operations like insertion and deletion.",
 			icons: [
 				
 				{
