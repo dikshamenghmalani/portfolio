@@ -75,43 +75,38 @@ export const projects = {
 	title: "Projects",
 	cards: [
 		{
-			title: "StarBook",
+			title: "Machine Learning Algorithms Visualizer",
 			description:
-				"A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.",
+				"Animated visualization of machine learning and deep learning models showcasing their convergence mechanism and parameter tradeoffs.",
 			icons: [
 				{
-					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
-				},
-				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/star_book",
+					link: "https://github.com/dikshamenghmalani/Machine-Learning-Algorithms",
 				},
 			],
 		},
 		{
-			title: "QuranTalk",
+			title: "Emotion Detector using EEG Signals",
 			description:
-				"An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
+				"An emotion detection model using Electroencephalogram (EEG) data to classify four key emotions",
 			icons: [
+				
 				{
-					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
-				},
-				{
-					icon: faGooglePlay,
-					link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
+					icon: faGithub,
+					link: "https://github.com/dikshamenghmalani/Emotion-Recognition-using-EEG-Signal",
 				},
 			],
 		},
+
 		{
-			title: "Portfolio",
+			title: "Database Management System",
 			description:
-				"A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+				"A single-user DBMS for handling SQL queries, including projection and selection, and relational operations like insertion and deletion."}
 			icons: [
+				
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/portfolio",
+					link: "https://github.com/dikshamenghmalani/Database-Management-Systems-CompSci-564",
 				},
 			],
 		},
@@ -135,7 +130,7 @@ export const contact = {
 // SEARCH ENGINE
 export const SEO = {
 	// 50 - 60 char
-	title: "Diksha Menghmalani | Computer Engineer ",
+	title: "Diksha Menghmalani | Data Engineer ",
 	description:
 		"Graduate student in Data Engineering at the University of Wisconsin Madison",
 	image: profile.src,
