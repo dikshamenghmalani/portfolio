@@ -34,15 +34,15 @@ export const Footer = () => {
 	return (
 		<footer className="bg-secondary text-center py-2 px-5">
 			<div className="container text-muted">
-				<small>&copy; 2021 {" "}
-					<Link href="https://github.com/hashirshoaeb">
+				<small>&copy; 2026 {" "}
+					<Link href="https://github.com/dikshamenghmalani">
+						<a>Diksha Menghmalani</a>
+					</Link>
+					. Template by {" "}
+					<Link href="https://github.com/hashirshoaeb/portfolio">
 						<a>hashirshoaeb</a>
 					</Link>
-					. Open sourced with love under {" "}
-					<Link href="https://github.com/hashirshoaeb/portfolio/blob/main/LICENSE">
-						<a>MIT</a>
-					</Link>
-					{" "} License
+					{" "} under MIT License
 				</small>
 			</div>
 		</footer>
